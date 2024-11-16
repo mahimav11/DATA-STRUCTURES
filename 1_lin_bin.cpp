@@ -1,3 +1,5 @@
+// Design the System to search and store the element ,use the concept of Array and searching technique.
+
 #include <iostream>
 using namespace std;
 
