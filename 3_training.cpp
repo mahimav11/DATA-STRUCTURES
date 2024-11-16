@@ -1,3 +1,4 @@
+// who attended training program in random order. Write function for a) Searching whether particular student attended training program or not using Binary search .
 #include <iostream>
 using namespace std;
 int roll_no[50],n,i,key,flag;
