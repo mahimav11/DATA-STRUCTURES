@@ -1,3 +1,4 @@
+//Write C++ program with functions. To check whether given string is palindrome or not that uses a stack to determine whether a string is a palindrome
 #include <iostream>
 #include <cstring>
 using namespace std;
