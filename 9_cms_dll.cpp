@@ -1,3 +1,4 @@
+//Design Charity Management System using (doubly) Linked List     
 #include <iostream>
 #include <string>
 using namespace std;
